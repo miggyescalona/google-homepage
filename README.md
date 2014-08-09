@@ -1,4 +1,4 @@
 google-homepage
 ===============
 
-theodinproject - google homepage
+theodinproject.com
