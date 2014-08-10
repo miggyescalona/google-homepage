@@ -1,8 +1,4 @@
-google-homepage
-===============
+Google Homepage
+================
 
-theodinproject.com
-
--miggyescalona
-
-test123
+Google Homepage made from CSS and HTML for  <a href="http://www.theodinproject.com/">TheOdinProject.</a>
