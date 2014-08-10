@@ -38,7 +38,7 @@ html, body {
 }
 
 .bell {
-  background-image: url("bell.png");
+  background-image: url("images/bell.png");
   background-position: -53px -1200px;
   background-size: 112px 1828px;
   height: 30px;
